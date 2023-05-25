@@ -1,0 +1,27 @@
+img{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    w;
+}
+center{
+    text-align: -webkit-center;
+}
+.birinci{
+    width: 37%;
+    background-color: #7EE5DA;
+    float: right;
+}
+.ikinci{
+        width: 37%;
+        background-color: #7EE5DA;
+        float: right;
+        clear: none;
+}
+.ttt{
+    width: 37%;
+        background-color: #7EE5DA;
+}
+p{
+    
+    background-color: #7EE5DA;
+}
